@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/shengtao-dai/shengtao-dai.r-universe.dev
 	branch = HEAD
+[submodule "DARELL"]
+	path = DARELL
+	url = https://github.com/shengtao-dai/DARELL
+[submodule "DARERF"]
+	path = DARERF
+	url = https://github.com/shengtao-dai/DARERF
+[submodule "DARESR"]
+	path = DARESR
+	url = https://github.com/shengtao-dai/DARESR
